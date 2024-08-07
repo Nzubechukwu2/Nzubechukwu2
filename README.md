@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 - 🎓 **Education**: Currently pursuing education to enhance my skills in data analytics.
-- 💼 **Previous Experience**: Worked as an administrative secretary in a law firm.
+- 💼 **Previous Experience**: Worked as a Data Analyst in Octave Analytics.
 
 ### 📊 Interests
 - 📈 Data Analytics
